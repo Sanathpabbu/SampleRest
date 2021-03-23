@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Mar 22 14:21:49 PDT 2021
+jetty-server-9.4.31.v20200723.jar>central=
+jetty-server-9.4.31.v20200723-sources.jar>central=
+jetty-server-9.4.31.v20200723.pom>central=
